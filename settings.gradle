@@ -1,0 +1,1 @@
+include ':app', ':day5work', ':day05work2', ':day6sensor', ':day06woek', ':day6touchevent', ':day6myview', ':day6myview2', ':day8work', ':day8myview2', ':day9work', ':day9umeng', ':day10jpush', ':day11easeui', ':day11baidu'

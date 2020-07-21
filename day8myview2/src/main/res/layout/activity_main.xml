@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.example.day8myview2.MyTextView
+        android:id="@+id/tv_mytv"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="hollo world" />
+
+    <com.example.day8myview2.MyLine
+        android:id="@+id/myline"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_below="@id/tv_mytv"
+        android:layout_marginTop="1dp"
+        android:background="#f00" />
+
+    <com.example.day8myview2.MyCircle
+        android:id="@+id/mycircle"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/myline"
+        android:layout_marginTop="2dp" />
+
+    <com.example.day8myview2.MyImage
+        android:id="@+id/myimage"
+        android:layout_below="@id/mycircle"
+        android:layout_width="50dp"
+        android:layout_height="50dp" />
+
+    <com.example.day8myview2.MyMoresSide
+        android:id="@+id/mynoresside"
+        android:layout_below="@id/myimage"
+        android:layout_width="match_parent"
+        android:layout_height="150dp" />
+
+    <com.example.day8myview2.MyRecView
+        android:id="@+id/myrec"
+        android:layout_below="@id/mynoresside"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+</RelativeLayout>

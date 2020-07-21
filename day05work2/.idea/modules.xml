@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MvpWl.iml" filepath="$PROJECT_DIR$/../MvpWl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05work2.iml" filepath="$PROJECT_DIR$/day05work2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day06woek/day06woek.iml" filepath="$PROJECT_DIR$/../day06woek/day06woek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day10jpush/day10jpush.iml" filepath="$PROJECT_DIR$/../day10jpush/day10jpush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day11baidu/day11baidu.iml" filepath="$PROJECT_DIR$/../day11baidu/day11baidu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day11easeui/day11easeui.iml" filepath="$PROJECT_DIR$/../day11easeui/day11easeui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day5work/day5work.iml" filepath="$PROJECT_DIR$/../day5work/day5work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day6myview/day6myview.iml" filepath="$PROJECT_DIR$/../day6myview/day6myview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day6myview2/day6myview2.iml" filepath="$PROJECT_DIR$/../day6myview2/day6myview2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day6sensor/day6sensor.iml" filepath="$PROJECT_DIR$/../day6sensor/day6sensor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day6touchevent/day6touchevent.iml" filepath="$PROJECT_DIR$/../day6touchevent/day6touchevent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day8myview2/day8myview2.iml" filepath="$PROJECT_DIR$/../day8myview2/day8myview2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day8work/day8work.iml" filepath="$PROJECT_DIR$/../day8work/day8work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day9umeng/day9umeng.iml" filepath="$PROJECT_DIR$/../day9umeng/day9umeng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day9work/day9work.iml" filepath="$PROJECT_DIR$/../day9work/day9work.iml" />
+    </modules>
+  </component>
+</project>

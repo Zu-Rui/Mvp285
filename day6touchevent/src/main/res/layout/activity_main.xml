@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+   <Button
+       android:id="@+id/btn_touchme"
+       android:text="点我"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content" />
+   <!--水平滚动的ScrollView-->
+   <!--<HorizontalScrollView
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"></HorizontalScrollView>-->
+   <!--ScrollView  垂直滚动组件-->
+   <com.example.day6touchevent.MyScrollView
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content">
+      <LinearLayout
+          android:orientation="vertical"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content">
+         <com.example.day6touchevent.MyButton
+             android:id="@+id/btn1"
+             android:text="按钮1"
+             android:textSize="48dp"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content" />
+
+         <com.example.day6touchevent.MyButton
+             android:id="@+id/btn2"
+             android:text="按钮2"
+             android:textSize="48dp"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content" />
+
+         <com.example.day6touchevent.MyButton
+             android:id="@+id/btn3"
+             android:text="按钮2"
+             android:textSize="48dp"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content" />
+
+         <com.example.day6touchevent.MyButton
+             android:id="@+id/btn4"
+             android:text="按钮4"
+             android:textSize="48dp"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content" />
+
+         <com.example.day6touchevent.MyButton
+             android:id="@+id/btn5"
+             android:text="按钮5"
+             android:textSize="48dp"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content" />
+
+         <com.example.day6touchevent.MyButton
+             android:id="@+id/btn6"
+             android:text="按钮6"
+             android:textSize="48dp"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content" />
+         <com.example.day6touchevent.MyButton
+             android:id="@+id/btn7"
+             android:text="按钮7"
+             android:textSize="48dp"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content" />
+
+         <com.example.day6touchevent.MyButton
+             android:id="@+id/btn8"
+             android:text="按钮8"
+             android:textSize="48dp"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content" />
+
+         <com.example.day6touchevent.MyButton
+             android:id="@+id/btn9"
+             android:text="按钮9"
+             android:textSize="48dp"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content" />
+
+         <com.example.day6touchevent.MyButton
+             android:id="@+id/btn10"
+             android:text="按钮10"
+             android:textSize="48dp"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content" />
+
+         <com.example.day6touchevent.MyButton
+             android:id="@+id/btn11"
+             android:text="按钮11"
+             android:textSize="48dp"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content" />
+
+         <com.example.day6touchevent.MyButton
+             android:id="@+id/btn12"
+             android:text="按钮12"
+             android:textSize="48dp"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content" />
+
+      </LinearLayout>
+
+   </com.example.day6touchevent.MyScrollView>
+
+
+
+</LinearLayout>
